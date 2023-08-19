@@ -2,5 +2,7 @@
   "/": "https://chris.pub",
   "/j/y": "https://www.youtube.com/playlist?list=PLbWVl68nXBwhDWhcdLYXuljBhnMs4SqJ5",
   "b": "https://blog.chris.pub",
-  "s": "https://shared.chris.pub"
+  "steve": "https://blog.chris.pub/steve",
+  "s": "https://shared.chris.pub",
+  "/email":"mailto:chris@gwillia.ms"
 }
