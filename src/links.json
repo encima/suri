@@ -1,8 +1,10 @@
 {
   "/": "https://chris.pub",
   "/j/y": "https://www.youtube.com/playlist?list=PLbWVl68nXBwhDWhcdLYXuljBhnMs4SqJ5",
-  "b": "https://blog.chris.pub",
-  "steve": "https://blog.chris.pub/steve",
-  "s": "https://shared.chris.pub",
-  "/email":"mailto:chris@gwillia.ms"
+  "/b": "https://blog.chris.pub",
+  "/steve": "https://blog.chris.pub/steve",
+  "/s": "https://shared.chris.pub",
+  "/email":"mailto:chris@gwillia.ms",
+  "/email/work":"mailto:chris.gwilliams@supabase.io",
+  "/meet/work":"https://calendar.app.google/3Hs8zWbFiYk9ZwSo8"
 }
