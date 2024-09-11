@@ -1,6 +1,5 @@
 {
   "/": "https://chris.pub",
-  "/j/y": "https://www.youtube.com/playlist?list=PLbWVl68nXBwhDWhcdLYXuljBhnMs4SqJ5",
   "/b": "https://blog.chris.pub",
   "/ics": "https://calendar.google.com/calendar/u/0?cid=MThjMzE1NTk0YzhhNjQ3YWJhMzVjMjBmMGUxMjcyNDIxODViZjYwMGU0ZThmZGRjOTgyYThlMWI3ODg2ODg3OUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
   "/cal":, "https://calendar.google.com/calendar/embed?src=18c315594c8a647aba35c20f0e127242185bf600e4e8fddc982a8e1b78868879%40group.calendar.google.com&ctz=Europe%2FLondon",
@@ -9,6 +8,5 @@
   "/s": "https://shared.chris.pub",
   "/email":"mailto:chris@gwillia.ms",
   "/email/work":"mailto:chris.gwilliams@supabase.io",
-  "/meet/work":"https://calendar.app.google/3Hs8zWbFiYk9ZwSo8",
-  "/janni/bday24": "https://user.fm/calendar/v1-50119cb8672014fd009e3d0260b6cd51/A%20Night%20in%20Jannis.ics"
+  "/meet/work":"https://calendar.app.google/3Hs8zWbFiYk9ZwSo8"
 }
