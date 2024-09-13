@@ -2,12 +2,12 @@
   "/": "https://chris.pub",
   "/b": "https://blog.chris.pub",
   "/ics": "https://calendar.google.com/calendar/u/0?cid=MThjMzE1NTk0YzhhNjQ3YWJhMzVjMjBmMGUxMjcyNDIxODViZjYwMGU0ZThmZGRjOTgyYThlMWI3ODg2ODg3OUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
-  "/cal":, "https://calendar.google.com/calendar/embed?src=18c315594c8a647aba35c20f0e127242185bf600e4e8fddc982a8e1b78868879%40group.calendar.google.com&ctz=Europe%2FLondon",
+  "/cal": "https://calendar.google.com/calendar/embed?src=18c315594c8a647aba35c20f0e127242185bf600e4e8fddc982a8e1b78868879%40group.calendar.google.com&ctz=Europe%2FLondon",
   "/meet": "https://calendar.google.com/calendar/embed?height=800&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FHelsinki&title=Chris%20Gwilliams&hl=en_GB&src=cWRuMGs3b2JvcHYwNmdtdnZjZTIyb3N0dmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Y2hyaXMuZ3dpbGxpYW1zQHN1cGFiYXNlLmlv&src=czE2dmpubnNjcjgwZDNuNXFwMGFtbWEwZ3A4b2U0ZnJAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y2hyaXNAd29tZW5wbHVzcGx1cy5jaA&color=%23F6BF26&color=%23D50000&color=%23AD1457&color=%23F6BF26",
   "/steve": "https://blog.chris.pub/steve",
   "/shared": "https://shared.chris.pub",
   "/upload": "https://u.pcloud.link/publink/show?code=0mWrtalK",
   "/email":"mailto:chris@gwillia.ms",
   "/email/work":"mailto:chris.gwilliams@supabase.io",
-  "/meet/work":"https://calendar.app.google/3Hs8zWbFiYk9ZwSo8",
+  "/meet/work":"https://calendar.app.google/3Hs8zWbFiYk9ZwSo8"
 }
